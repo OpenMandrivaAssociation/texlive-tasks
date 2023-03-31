@@ -1,6 +1,6 @@
 Name:		texlive-tasks
 Version:	61541
-Release:	1
+Release:	2
 Summary:	Horizontally columned lists
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tasks
