@@ -3,7 +3,7 @@ Version:	61541
 Release:	2
 Summary:	Horizontally columned lists
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tasks
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tasks
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tasks.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tasks.doc.r%{version}.tar.xz
